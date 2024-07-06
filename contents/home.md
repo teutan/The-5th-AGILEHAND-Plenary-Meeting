@@ -11,5 +11,4 @@ December 2-6, 2024
 
 
 #### Schedule
-2022.08 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
-2018.08 - 2022.06, Data Science and Big Data Technology, School of Computer Science and Technology, China University of Mining and Technology.
+<img class="shadow" src="static/assets/img/sshot.jpg">
