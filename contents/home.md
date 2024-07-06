@@ -11,4 +11,4 @@ December 2-6, 2024
 
 
 #### Schedule
-<img class="shadow" src="static/assets/img/sshot.jpg">
+<img class="shadow" src="static/assets/img/sshot.png">
