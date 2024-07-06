@@ -1,2 +1,1 @@
--Tokyo University of Technology
-1404-1 Katakura, Hachioji, Tokyo, Japan
+-Tokyo University of Technology, 1404-1 Katakura, Hachioji, Tokyo, Japan
