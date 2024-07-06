@@ -12,4 +12,3 @@ December 2-6, 2024
 
 #### Schedule
 
-url('static/assets/img/BS.jpg');">
