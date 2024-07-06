@@ -12,3 +12,7 @@ December 2-6, 2024
 
 #### Schedule
 
+Dec. 2 (Monday) Arrive in Tokyo
+[image](static/assets/img/sshot.png)
+
+
